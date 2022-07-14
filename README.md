@@ -7,7 +7,9 @@
 
 - 💬 Ask me about **Html, Css and Javascript**
 
-- 📫 How to reach me **jarf.dev4@gmail.com**
+- 👨‍💻 My personal webpage: **https://jarf-portfolio.netlify.app/**
+
+- 📫 How to reach me **jarf4321@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
