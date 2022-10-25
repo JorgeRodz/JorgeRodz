@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=JorgeRodz)
+
 <h1 align="center">👨‍💻 Software Engenieer - Ruby on Rails Developer 💎🛤</h1>
 
 ![portada_github_profile](https://user-images.githubusercontent.com/13999498/197710375-0c194796-adf4-4140-a354-1712be9b4a5a.gif)
