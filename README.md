@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=JorgeRodz)
-
 <h1 align="center">👨‍💻 Software Engenieer - Ruby on Rails Developer 💎🛤</h1>
 
 ![portada_github_profile](https://user-images.githubusercontent.com/13999498/197710375-0c194796-adf4-4140-a354-1712be9b4a5a.gif)
@@ -31,7 +29,11 @@ const JORGE = {
 
 # 🐱 Github Stast 📊
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jorgerodz&show_icons=true&locale=en" alt="jorgerodz" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jorgerodz&show_icons=true&locale=en&theme=radical&custom_title=JorgeRodz's%20Stats&border_radius=10&hide_rank=true&border_color=f492ba" alt="jorgerodz" />&emsp;&emsp;&emsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeRodz&layout=compact" alt="jorgerodz" />
+</p>
+
 
 # 💻 Hacktoberfest 2022 🎃
 
