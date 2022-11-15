@@ -10,12 +10,33 @@ const JORGE = {
   location: "🇲🇽",
   tech_stack_and_skills: {
     programming_languages: ["Html", "Css", "Javascript", "Ruby"],
-    frameworks_and_libraries: ["SASS", "Bootstrap", "Tailwinds", "React", "Ruby on Raisl"],
+    frameworks_and_libraries: [
+      "SASS",
+      "Bootstrap",
+      "Tailwinds",
+      "React",
+      "Ruby on Raisl",
+    ],
     databases: ["Postgresql", "sqlite3"],
-    other_technologies: ["GNU/Linux", "Linux Terminal", "vim", "tmux", "Git", "Github" ]
+    other_technologies: [
+      "GNU/Linux",
+      "Linux Terminal",
+      "vim",
+      "tmux",
+      "Git",
+      "Github",
+    ],
   },
-  soft_skills: ["Teamwork", "Problem-solving", "Adaptability", " Critical thinking","Decision-making"],
-  favorite_quote: "Comparison is the thief of joy",
+  soft_skills: [
+    "Teamwork",
+    "Problem-solving",
+    "Adaptability",
+    " Critical thinking",
+    "Decision-making",
+  ],
+  aside_topics: {
+    favorite_quote: "Comparison is the thief of joy",
+  },
 };
 ```
 
