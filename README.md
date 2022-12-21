@@ -40,9 +40,9 @@ const JORGE = {
 };
 ```
 
-- 🌱 I’m currently learning: **Ruby, Ruby on Rails**
+- 🌱 I’m currently learning: **Ruby, Ruby on Rails and React**
 
-- 💬 Ask me about: **Html, Css and Javascript**
+- 💬 Ask me about: **Html, Css, Javascript, Ruby and Ruby on Rails**
 
 - 👨‍💻 My personal webpage: **<a href="https://jarf-portfolio.netlify.app/" target="blank" rel="noopener noreferrer">https://jarf-portfolio.netlify.app/</a>**
 
