@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻&nbsp;&nbsp;~&nbsp;Software Engenieer&nbsp;~&nbsp;&nbsp;🖥️ </h1>
+<h1 align="center">👨‍💻&nbsp;&nbsp;◽&nbsp;Software Engenieer&nbsp;◽&nbsp;&nbsp;💻 </h1>
 
 [![portada_github_profile](https://user-images.githubusercontent.com/13999498/197710375-0c194796-adf4-4140-a354-1712be9b4a5a.gif)](https://jarf-portfolio.netlify.app/)
 
