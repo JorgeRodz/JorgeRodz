@@ -40,13 +40,13 @@ const JORGE = {
 };
 ```
 
-🧠 &nbsp;I’m currently learning: **Ruby, Ruby on Rails and React**
+#### 🧠 &nbsp;I’m currently learning ➡️ **Ruby, Ruby on Rails and React**
 
-💬 &nbsp;Ask me about: **Html, Css, Javascript, Ruby and Ruby on Rails**
+#### 💬 &nbsp;Ask me about ➡️ **Html, Css, Javascript, Ruby and Ruby on Rails**
 
-👨‍💻 &nbsp;My personal webpage: **<a href="https://jarf-portfolio.netlify.app/" target="blank" rel="noopener noreferrer">https://jarf-portfolio.netlify.app/</a>**
+#### 👨‍💻 &nbsp;My personal webpage ➡️ **<a href="https://jarf-portfolio.netlify.app/" target="blank" rel="noopener noreferrer">https://jarf-portfolio.netlify.app/</a>**
 
-🤝 &nbsp;Connect with me : **<a href="https://www.linkedin.com/in/jarf4321/" target="blank" rel="noopener noreferrer">https://www.linkedin.com/in/jarf4321/</a>**
+#### 🤝 &nbsp;Connect with me ➡️ **<a href="https://www.linkedin.com/in/jarf4321/" target="blank" rel="noopener noreferrer">https://www.linkedin.com/in/jarf4321/</a>**
 
 # 🐱 Github Stast 📊
 
