@@ -1,6 +1,6 @@
 <h1 align="center">👨‍💻&nbsp;&nbsp;◽&nbsp;Software Engenieer&nbsp;◽&nbsp;&nbsp;💻 </h1>
 
-[![portada_github_profile](https://user-images.githubusercontent.com/13999498/197710375-0c194796-adf4-4140-a354-1712be9b4a5a.gif)](https://jarf-portfolio.netlify.app/)
+[![profile-github-banner](https://github.com/JorgeRodz/JorgeRodz/assets/13999498/dc6822d2-3f84-4685-b295-a0c185b91b48)](https://jarf-portfolio.netlify.app/)
 
 # ℹ️ About me 👨🏻‍🦱
 
