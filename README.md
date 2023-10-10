@@ -2,7 +2,7 @@
 
 [![profile-github-banner](https://github.com/JorgeRodz/JorgeRodz/assets/13999498/dc6822d2-3f84-4685-b295-a0c185b91b48)](https://jarf-portfolio.netlify.app/)
 
-# ℹ️ About me 👨🏻‍🦱
+# 👻 About me 👨🏻‍🦱
 
 ```javascript
 const JORGE = {
