@@ -56,6 +56,6 @@ const JORGE = {
 </p>
 
 
-# 💻 Hacktoberfest 2022 🎃
+# 💻 Hacktoberfest 🎃
 
 [![@jorgerodz's Holopin board](https://holopin.me/jorgerodz)](https://holopin.io/@jorgerodz)
